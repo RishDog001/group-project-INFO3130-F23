@@ -37,9 +37,9 @@
             <h2>Sign in to your account</h2>
             <form id="loginForm">
                 <label for="txtEmail">Email Address: </label>
-                <input type="text" id="txtEmail" name="txtEmail" data-clear-btn="false">
+                <input type="text" id="txtEmail" name="txtEmail" data-clear-btn="false" required>
                 <label for="txtPassword">Password: </label>
-                <input type="password" id="txtPassword" name="txtPassword">
+                <input type="password" id="txtPassword" name="txtPassword" required>
                 <a href="#pageHome" class="ui-btn-active" data-role="button" data-theme="a">Login</a>
             </form>
         </section>
@@ -447,7 +447,7 @@
                 <label for="txtMessage">Message (optional)</label>
                 <input type="text" id="txtMessage" name="txtMessage">
                 <label for="txtMasterPassword">Master Password</label>
-                <input type="password" id="txtMasterPassword" name="txtMasterPassword">
+                <input type="password" id="txtMasterPassword" name="txtMasterPassword" required>
                 <button type="submit" id="btnSend" name="btnSend" class="ui-btn-active" data-theme="a">Send E-Transfer</button>
             </form>
         </section>
