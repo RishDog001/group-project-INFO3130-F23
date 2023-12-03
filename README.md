@@ -8,4 +8,4 @@ We also have a page that acts as a live chat where if the user has any questions
 Currently, this is just a static website with static/hardcoded information. In the future, we may decide to make it more dynamic by implementing some JavaScript functionality as well as a backend to handle the information the user enters.
 
 Group Members: Rish Naik, Woo Sub Byun, Gavin Rintoul.
-GitHub profiles: https://github.com/RishDog001, https://github.com/GavinR8820
+GitHub profiles: https://github.com/RishDog001, https://github.com/GavinR8820, https://github.com/woosub1029.
